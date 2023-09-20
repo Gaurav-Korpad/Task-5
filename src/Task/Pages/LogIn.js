@@ -32,8 +32,9 @@ function Login() {
       <div className='container mt-5'>
         <div className='row '>
           <div className='col-3'>
-
+          
           </div>
+          
           <div className='col-6'>
             <form onSubmit={handlesubmit}>
               {/* <!-- Email input --> */}
